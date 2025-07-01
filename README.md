@@ -8,12 +8,15 @@ The research relies on datasets made available by the CLINF organization: https:
 All data utilized in this analysis was created by and is © CLINF organization. All rights and copyrights to the dataset belong to CLINF.
 The original dataset was generously provided by:
 
-Thierfelder, T.
+# Thierfelder, T.
 Department of Energy & Technology, Swedish University of Agricultural Sciences, Uppsala, Sweden
+
 Berggren, C.
 Department of Chemistry, Environment, and Feed Safety, National Veterinary Institute, Uppsala, Sweden
+
 Omazic, A.
 Department of Chemistry, Environment, and Feed Safety, National Veterinary Institute, Uppsala, Sweden
+
 Evengård, B.
 Department of Clinical Microbiology, Umeå University, Umeå, Sweden
 
