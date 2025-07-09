@@ -1,4 +1,4 @@
-## Overview
+## Analyzing the Impact of Climate Change on Infectious Disease Spread in Sub-Arctic Regions
 This research explores the relationship between climate change and the spread of climate-sensitive infectious diseases in sub-Arctic and northern regions. By analyzing long-term epidemiological data and correlating it with environmental indicators such as surface temperature, the study aims to identify patterns in disease emergence and assess how rising temperatures may influence the distribution and frequency of infections.
 
 The study places special focus on rare but potentially dangerous diseases such as tularemia, which is known to be sensitive to environmental changes. 
